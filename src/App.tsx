@@ -38,7 +38,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODl6cW45ajYwNWxlaTVoYmducjV3bGM4aDh6OW5mM2N5MXltaDlneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1ifSvtaxp4YSWX4o4/giphy.gif" />
-          <div className="my-4 text-4xl font-bold">AHHHHHH I LOVE YOU !!! :DDD ;)) </div>
+          <div className="my-4 text-4xl font-bold">AHHHHHH I LOVE YOUm, ARI !!! :DDD ;)) </div>
         </>
       ) : (
         <>
